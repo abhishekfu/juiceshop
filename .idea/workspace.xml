@@ -1,17 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="65c73650-4089-4261-8c04-d7ec457b88ad" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/juiceshop.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jenkinsfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/juiceshop_e2e.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/juiceshop_e2e.java" afterDir="false" />
-    </list>
+    <list default="true" id="65c73650-4089-4261-8c04-d7ec457b88ad" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -45,11 +35,11 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
-  <component name="RunManager" selected="TestNG.juiceshop_e2e.register (1)">
-    <configuration name="juiceshop_e2e" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager">
+    <configuration name="JuiceShopE2ETest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="JuiceShopTestAutomation" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="juiceshop_e2e" />
+      <option name="MAIN_CLASS_NAME" value="JuiceShopE2ETest" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -57,10 +47,10 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="juiceshop_e2e.register (1)" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="juiceshop" />
+    <configuration name="JuiceShopE2ETest.register" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="JuiceShopTestAutomation" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="juiceshop_e2e" />
+      <option name="MAIN_CLASS_NAME" value="JuiceShopE2ETest" />
       <option name="METHOD_NAME" value="register" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
@@ -69,10 +59,10 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="juiceshop_e2e.register" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="JuiceShopTestAutomation" />
+    <configuration name="JuiceShopE2ETest.register" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="juiceshop" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="juiceshop_e2e" />
+      <option name="MAIN_CLASS_NAME" value="JuiceShopE2ETest" />
       <option name="METHOD_NAME" value="register" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
@@ -83,9 +73,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.juiceshop_e2e.register (1)" />
-        <item itemvalue="TestNG.juiceshop_e2e.register" />
-        <item itemvalue="TestNG.juiceshop_e2e" />
+        <item itemvalue="TestNG.JuiceShopE2ETest.register" />
+        <item itemvalue="TestNG.JuiceShopE2ETest.register" />
+        <item itemvalue="TestNG.JuiceShopE2ETest" />
       </list>
     </recent_temporary>
   </component>
@@ -101,7 +91,7 @@
       <updated>1590828308742</updated>
       <workItem from="1590828313809" duration="1863000" />
       <workItem from="1590830619678" duration="661000" />
-      <workItem from="1590832069413" duration="3128000" />
+      <workItem from="1590832069413" duration="3486000" />
     </task>
     <servers />
   </component>

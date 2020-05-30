@@ -5,7 +5,7 @@ import org.testng.Assert;
 import org.testng.annotations.Test;
 
 import java.util.concurrent.TimeUnit;
-public class juiceshop_e2e {
+public class JuiceShopE2ETest {
 
     WebDriver driver;
     String email = "b@gmail.com";
