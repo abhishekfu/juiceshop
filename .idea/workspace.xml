@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="65c73650-4089-4261-8c04-d7ec457b88ad" name="Default Changelist" comment="" />
+    <list default="true" id="65c73650-4089-4261-8c04-d7ec457b88ad" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker-compose.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/docker-compose.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/JuiceShopE2ETest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/JuiceShopE2ETest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/juiceshop_e2e.class" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -91,7 +99,7 @@
       <updated>1590828308742</updated>
       <workItem from="1590828313809" duration="1863000" />
       <workItem from="1590830619678" duration="661000" />
-      <workItem from="1590832069413" duration="3486000" />
+      <workItem from="1590832069413" duration="4910000" />
     </task>
     <servers />
   </component>
