@@ -13,8 +13,8 @@ public class juiceshop_e2e {
 
     @Test
     public void register(){
-        System.setProperty("webdriver.chrome.driver","/Users/swati.kalra/Downloads/chromedriver");
-        driver = new ChromeDriver();
+        WebDriverManager.chromedriver().setup();
+        WebDriver driver = new ChromeDriver();
         driver.manage().window().maximize();
         driver.get("http://localhost:3000/#/register");
         driver.manage().timeouts().implicitlyWait(5, TimeUnit.SECONDS);

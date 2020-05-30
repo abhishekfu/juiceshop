@@ -1,8 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="65c73650-4089-4261-8c04-d7ec457b88ad" name="Default Changelist" comment="" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="65c73650-4089-4261-8c04-d7ec457b88ad" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/juiceshop.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jenkinsfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/juiceshop_e2e.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/juiceshop_e2e.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,34 +24,45 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1ccWLpSnNpFJXYYV9DXznDRlkPr" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="go.import.settings.migrated" value="true" />
-    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="TestNG.juiceshop_e2e.register">
+  <component name="RunManager" selected="TestNG.juiceshop_e2e.register (1)">
     <configuration name="juiceshop_e2e" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="JuiceShopTestAutomation" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="juiceshop_e2e" />
       <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="juiceshop_e2e.register (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="juiceshop" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="juiceshop_e2e" />
+      <option name="METHOD_NAME" value="register" />
+      <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
       <method v="2">
@@ -63,6 +83,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.juiceshop_e2e.register (1)" />
         <item itemvalue="TestNG.juiceshop_e2e.register" />
         <item itemvalue="TestNG.juiceshop_e2e" />
       </list>
@@ -80,10 +101,25 @@
       <updated>1590828308742</updated>
       <workItem from="1590828313809" duration="1863000" />
       <workItem from="1590830619678" duration="661000" />
+      <workItem from="1590832069413" duration="3128000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="208" y="23" key="#Project_Structure" timestamp="1590832247846">
+      <screen x="0" y="23" width="1440" height="806" />
+    </state>
+    <state x="208" y="23" key="#Project_Structure/0.23.1440.806@0.23.1440.806" timestamp="1590832247846" />
+    <state x="445" y="235" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1590835589824">
+      <screen x="0" y="23" width="1440" height="806" />
+    </state>
+    <state x="445" y="235" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.806@0.23.1440.806" timestamp="1590835589824" />
+    <state x="229" y="65" key="SettingsEditor" timestamp="1590832201282">
+      <screen x="0" y="23" width="1440" height="806" />
+    </state>
+    <state x="229" y="65" key="SettingsEditor/0.23.1440.806@0.23.1440.806" timestamp="1590832201282" />
   </component>
 </project>
