@@ -2,16 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="65c73650-4089-4261-8c04-d7ec457b88ad" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/E2ETest/Webdriver.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/JuiceShopE2ETest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/E2ETest/JuiceShopE2ETest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/E2ETest/Webdriver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/E2ETest/Webdriver.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -111,7 +112,7 @@
       <workItem from="1590828313809" duration="1863000" />
       <workItem from="1590830619678" duration="661000" />
       <workItem from="1590832069413" duration="6466000" />
-      <workItem from="1591191855680" duration="5270000" />
+      <workItem from="1591191855680" duration="6967000" />
     </task>
     <servers />
   </component>
@@ -147,6 +148,10 @@
     </state>
     <state width="1398" height="207" key="GridCell.Tab.0.right/0.23.1440.806@0.23.1440.806" timestamp="1591196205768" />
     <state width="1398" height="207" key="GridCell.Tab.0.right/0.23.1440.808@0.23.1440.808" timestamp="1591194173512" />
+    <state x="258" y="88" key="Maven.ArtifactSearchDialog" timestamp="1591199671029">
+      <screen x="0" y="23" width="1440" height="806" />
+    </state>
+    <state x="258" y="88" key="Maven.ArtifactSearchDialog/0.23.1440.806@0.23.1440.806" timestamp="1591199671029" />
     <state x="229" y="23" key="SettingsEditor" timestamp="1591192533916">
       <screen x="0" y="23" width="1440" height="806" />
     </state>
