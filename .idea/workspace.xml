@@ -2,13 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="65c73650-4089-4261-8c04-d7ec457b88ad" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/E2ETest/Webdriver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docker-compose.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/docker-compose.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/JuiceShopE2ETest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/JuiceShopE2ETest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/juiceshop_e2e.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/JuiceShopE2ETest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/E2ETest/JuiceShopE2ETest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,16 +36,16 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="go.import.settings.migrated" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Project" />
-    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="TestNG.JuiceShopE2ETest.register (1)">
     <configuration name="JuiceShopE2ETest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="JuiceShopTestAutomation" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="JuiceShopE2ETest" />
+      <option name="MAIN_CLASS_NAME" value="E2ETest.JuiceShopE2ETest" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -58,7 +56,19 @@
     <configuration name="JuiceShopE2ETest.register" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="JuiceShopTestAutomation" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="JuiceShopE2ETest" />
+      <option name="MAIN_CLASS_NAME" value="E2ETest.JuiceShopE2ETest" />
+      <option name="METHOD_NAME" value="register" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JuiceShopE2ETest.register" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="juiceshop" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="E2ETest.JuiceShopE2ETest" />
       <option name="METHOD_NAME" value="register" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
@@ -81,6 +91,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.JuiceShopE2ETest.register (1)" />
         <item itemvalue="TestNG.JuiceShopE2ETest.register" />
         <item itemvalue="TestNG.JuiceShopE2ETest.register" />
         <item itemvalue="TestNG.JuiceShopE2ETest" />
@@ -99,7 +110,8 @@
       <updated>1590828308742</updated>
       <workItem from="1590828313809" duration="1863000" />
       <workItem from="1590830619678" duration="661000" />
-      <workItem from="1590832069413" duration="4910000" />
+      <workItem from="1590832069413" duration="6466000" />
+      <workItem from="1591191855680" duration="5270000" />
     </task>
     <servers />
   </component>
@@ -115,9 +127,29 @@
       <screen x="0" y="23" width="1440" height="806" />
     </state>
     <state x="445" y="235" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.806@0.23.1440.806" timestamp="1590835589824" />
-    <state x="229" y="65" key="SettingsEditor" timestamp="1590832201282">
+    <state width="1398" height="207" key="GridCell.Tab.0.bottom" timestamp="1591196205768">
       <screen x="0" y="23" width="1440" height="806" />
     </state>
-    <state x="229" y="65" key="SettingsEditor/0.23.1440.806@0.23.1440.806" timestamp="1590832201282" />
+    <state width="1398" height="207" key="GridCell.Tab.0.bottom/0.23.1440.806@0.23.1440.806" timestamp="1591196205768" />
+    <state width="1398" height="207" key="GridCell.Tab.0.bottom/0.23.1440.808@0.23.1440.808" timestamp="1591194173512" />
+    <state width="1398" height="207" key="GridCell.Tab.0.center" timestamp="1591196205767">
+      <screen x="0" y="23" width="1440" height="806" />
+    </state>
+    <state width="1398" height="207" key="GridCell.Tab.0.center/0.23.1440.806@0.23.1440.806" timestamp="1591196205767" />
+    <state width="1398" height="207" key="GridCell.Tab.0.center/0.23.1440.808@0.23.1440.808" timestamp="1591194173512" />
+    <state width="1398" height="207" key="GridCell.Tab.0.left" timestamp="1591196205767">
+      <screen x="0" y="23" width="1440" height="806" />
+    </state>
+    <state width="1398" height="207" key="GridCell.Tab.0.left/0.23.1440.806@0.23.1440.806" timestamp="1591196205767" />
+    <state width="1398" height="207" key="GridCell.Tab.0.left/0.23.1440.808@0.23.1440.808" timestamp="1591194173511" />
+    <state width="1398" height="207" key="GridCell.Tab.0.right" timestamp="1591196205768">
+      <screen x="0" y="23" width="1440" height="806" />
+    </state>
+    <state width="1398" height="207" key="GridCell.Tab.0.right/0.23.1440.806@0.23.1440.806" timestamp="1591196205768" />
+    <state width="1398" height="207" key="GridCell.Tab.0.right/0.23.1440.808@0.23.1440.808" timestamp="1591194173512" />
+    <state x="229" y="23" key="SettingsEditor" timestamp="1591192533916">
+      <screen x="0" y="23" width="1440" height="806" />
+    </state>
+    <state x="229" y="23" key="SettingsEditor/0.23.1440.806@0.23.1440.806" timestamp="1591192533916" />
   </component>
 </project>
